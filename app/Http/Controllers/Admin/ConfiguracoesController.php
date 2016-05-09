@@ -67,16 +67,19 @@ class ConfiguracoesController extends Controller
         $parametros1=DB::select("select * from vparametros1 where id_configuracao = ? limit 1",[$id]);
         $parametros2=DB::select("select * from vparametros2 where id_configuracao=? limit 1",[$id]);
         $colunas2=array();
+        $qtdcolunas1=0;
+        $qtdcolunas2=0;
         foreach($tabelas1 as $item)
         {
             $colunas1[]=$item->coluna1;
-
+            $qtdcolunas1++;
             $table1=$item->nome;
         }
         foreach($tabelas2 as $item)
         {
             $colunas2[]=$item->coluna2;
             $table2=$item->nome;
+            $qtdcolunas2++;
         }
 
         foreach($parametros1 as $row) {
@@ -88,32 +91,75 @@ class ConfiguracoesController extends Controller
         $x=0;
         foreach($colunas1 as $row)
         {
-            if($x==0)
-                $col1=$row;
-            else
-                $col1.=','.$row;
+            $coluna1[]=$row;
+            $col1 =null;
+            $col1 = $x == 0 ? $row : $col1 . ',' . $row;
+            $x++;
 
         }
-        $x=0;
+        $y=0;
         foreach($colunas2 as $row)
         {
-            if($x==0)
+            $coluna2[]=$row;
+            $col2=null;
+            if($y==0)
                 $col2=$row;
             else
                 $col2.=','.$row;
+            $y++;
 
         }
-        $result1=$conexao1->query('select '.$col1.' from '.$table1);
-        $result2=$conexao2->query('select '.$col2.' from '.$table2);
+        $insertbase1=0;
+        $insertbase2=0;
+        $query1='select '.$col1.' from '.$table1;
+        $query2='select '.$col2.' from '.$table2;
+        $result1=$conexao1->prepare($query1);
+        $result2=$conexao2->prepare($query2);
+        $valores1=null;
+        $queryinsert1=null;
+        $valores2=null;
+        $queryinsert2=null;
+        $result1->execute();
+        $result2->execute();
+
         while ($res1=$result1->fetch())
         {
-            while ($res2=$result2->fetch())
+
+         for($j=0;$j<$qtdcolunas1;$j++)
+         {
+             if ($j == 0) {
+
+
+                 $valores2 = "(" . $res1->$coluna1[$j];
+             } else {
+
+                 $valores2 .= "," . $res1->$coluna1[$j];
+             }
+         }
+            $queryinsert2='insert into ".$table2." ('.$colunas2.') values ('.$valores2.')';
+            if($conexao2->query($queryinsert2))
             {
-
+                $insertbase1++;
             }
-
         }
 
+        while ($res2=$result2->fetch())
+        {
+            for ($j = 0; $j < $qtdcolunas2; $j++) {
+                if ($j == 0) {
+
+
+                    $valores1 = "(" . $res2->$coluna2[$j];
+                } else {
+
+                    $valores1 .= "," . $res2->$coluna2[$j];
+                }
+            }
+            $queryinsert1 = 'insert into ".$table1." (' . $colunas1 . ') values (' . $valores1 . ')';
+            if ($conexao1->query($queryinsert1)) {
+                $insertbase2++;
+            }
+        }
 
         return view('admin.configuracoes.show', compact('configuraco'));
     }
@@ -146,7 +192,7 @@ class ConfiguracoesController extends Controller
         $configuraco = Configuraco::findOrFail($id);
         $configuraco->update($request->all());
 
-        Session::flash('flash_message', 'Configuraco updated!');
+        Session::flash('flash_message', 'Configuracao atualizada!');
 
         return redirect('admin/configuracoes');
     }
@@ -162,7 +208,7 @@ class ConfiguracoesController extends Controller
     {
         Configuraco::destroy($id);
 
-        Session::flash('flash_message', 'Configuraco deleted!');
+        Session::flash('flash_message', 'Configuracao apagada!');
 
         return redirect('admin/configuracoes');
     }
