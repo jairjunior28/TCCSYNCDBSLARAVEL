@@ -1,2 +1,1 @@
-# TCCSYNCDBSLARAVEL
-TCC - Desenvolvimento de aplicação Web Cloud para Sincronização de bases de dados distintas
+TCC SYNCDBS LARAVEL - Desenvolvimento de Aplicação Web CLoud Para sincronização de dados entre bases distintas.
