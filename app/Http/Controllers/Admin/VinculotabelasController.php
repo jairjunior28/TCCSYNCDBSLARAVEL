@@ -50,7 +50,7 @@ class VinculotabelasController extends Controller
         $tabela1=$request->get('tabela1');
         $tabela2=$request->get('tabela2');
 
-
+        
 
 
             Vinculotabela::create($request->all());
