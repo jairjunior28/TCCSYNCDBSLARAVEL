@@ -51,21 +51,14 @@ class VinculotabelasController extends Controller
     {
         $this->validate($request, ['id_tabela1' => 'required', 'id_tabela2' => 'required', ]);
         $tabela1=$request->get('id_tabela1');
-
         $tabela2=$request->get('id_tabela2');
         $table1 = Tabela::findOrFail($tabela1);
-
         $id_parametro1=$table1->id_parametro;
         $parametro1=Parametro::findOrFail($id_parametro1);
-
-
-
-            $conexao1=new PDO('mysql:host=' . $parametro1->host . ';dbname=' . $parametro1->banco, $parametro1->usuario, '');
+        $conexao1=new PDO('mysql:host=' . $parametro1->host . ';dbname=' . $parametro1->banco, $parametro1->usuario, $parametro1->senha);
         $table2=Tabela::findOrFail($tabela2);
         $parametro2=Parametro::findOrFail($table2->id_parametro);
-
-        $conexao2=new PDO('mysql:host=' . $parametro2->host . ';dbname=' . $parametro2->banco, $parametro2->usuario, '');
-
+        $conexao2=new PDO('mysql:host=' . $parametro2->host . ';dbname=' . $parametro2->banco, $parametro2->usuario, $parametro2->senha);
         $sql1="alter table ".$table1->nome." add updated_at TIMESTAMP NOT NULL 
         DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP";
         $conexao1->query($sql1);
@@ -75,7 +68,6 @@ class VinculotabelasController extends Controller
 
             Vinculotabela::create($request->all());
             Session::flash('flash_message', 'Vinculo tabela adicionado!');
-
 
         return redirect('admin/vinculotabelas');
     }

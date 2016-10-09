@@ -65,7 +65,6 @@ class ConfiguracoesController extends Controller
         $tabelas1=DB::select("select * from vtabelas1 where id_configuracao=?",[$id]);
         $tabelas2=DB::select("select * from vtabelas2 where id_configuracao=?",[$id]);
         $parametros1=DB::select("select * from vparametros1 where id = ? limit 1",[$id]);
-
         $colunas2=array();
         $qtdcolunas1=0;
         $qtdcolunas2=0;
@@ -84,7 +83,6 @@ class ConfiguracoesController extends Controller
             $qtdcolunas2++;
         }
         $parametros2=DB::select("select * from vparametros2 where id=? limit 1",[$idparam]);
-
         foreach($parametros1 as $row) {
             $conexao1 = new PDO('mysql:host=' . $row->host . ';dbname=' . $row->banco, $row->usuario, '');
              //echo $row->host.$row->banco;
@@ -99,15 +97,11 @@ class ConfiguracoesController extends Controller
             $coluna1[$x]=$row;
             $col1 =null;
             $col1 = $x == 0 ?  $row : $col1 . ',' . $row;
-
             $x++;
             $query1.= $col1;
             $nomecampo1.=$col1;
         }
-
-
         $query1.=' from '.$table1;
-        echo $query1;
         $y=0;
         $query2='select ';
         $nomecampo2=null;
@@ -119,22 +113,12 @@ class ConfiguracoesController extends Controller
             $y++;
             $query2.= $col2;
             $nomecampo2.=$col2;
-
-
-        //echo $col2;
         }
-        echo '<br>';
         $query2.=' from '.$table2;
-        echo $query2;
         $insertbase1=0;
         $insertbase2=0;
-
-
         $result1=$conexao1->prepare($query1);
         $result2=$conexao2->prepare($query2);
-
-        //echo $query2;
-      //  $result2=$conexao2->prepare($query2);
         $valores1=null;
         $queryinsert1=null;
         $valores2=null;
@@ -164,11 +148,9 @@ class ConfiguracoesController extends Controller
 
              }
          }
-          //  echo  $table2;
-           // echo  $nomecampo2;
 
             $queryinsert2="insert into ".$table2." (".$nomecampo2.") values (".$valores2.")";
-            //echo '<br>'.$queryinsert2[$aux2-1];
+
             if($conexao2->query($queryinsert2))
             {
                 $insertbase1++;
@@ -176,7 +158,6 @@ class ConfiguracoesController extends Controller
             }
             else
             {
-
 
                 $aux1++;
 
@@ -199,7 +180,7 @@ class ConfiguracoesController extends Controller
                 }
             }
             $queryinsert1[$aux1++] = "insert into ".$table1." (".$nomecampo1.") values (".$valores1.")";
-           // echo $queryinsert1[$aux1-1];
+
             $conexao1->query($queryinsert1[$aux1-1]);
             if ($conexao1->query($queryinsert1[$aux1-1])) {
                 $insertbase2++;
@@ -207,40 +188,62 @@ class ConfiguracoesController extends Controller
             else{$aux2++;}
         }
 
-        $check=null;
-        $auxcheck=null;
-        for($i=0;$i < $aux1;$i++)
+        $selectbase2="select * from ".$table2;
+        $selectbase1="select * from ".$table1;
+        //echo $selectbase2;
+        $result2=$conexao2->query($selectbase2);
+        $result1=$conexao1->query($selectbase1);
+
+        while($res2=$result2->fetch())
         {
-            for ($j = 0; $j < $qtdcolunas1; $j++)
-            {
-                if(isset($val2[$i][$j]) && isset($val2[$i][$j])) {
-                    if ($val2[$i][$j] == $val2[$i][$j])
-                        echo "validou";
-                    else
+            while($res=$result1->fetch()) {
+                if ($res2['updated_at'] > $res['updated_at']){
+                   // echo $res2['updated_at']." = " .$res['updated_at'] ."-mais velho";
+                    $sql2='update '.$table1.' set ';
+                    for($auxj=0;$auxj<$qtdcolunas2;$auxj++)
                     {
-                        echo "nao validou";
-
+                        if($auxj==0)
+                            $sql2.=$colunas1[$auxj]."='".$res2[$colunas2[$auxj]]."'";
+                        else
+                            $sql2.=",".$colunas1[$auxj]."='".$res2[$colunas2[$auxj]]."'";
                     }
+                    $sql2.=" where ".$colunas1[0]."='".$res2[$colunas2[0]]."'";
+                    echo $sql2;
+                    $resultado2=$conexao2->prepare($sql2);
+                    $resultado2->execute();
 
-                    echo $val1[$i][$j].',';
-                    echo $val2[$i][$j];
+                    if($resultado2->rowCount())
+                        echo 'ok';
+                    else
+                        echo 'erro';
+
+
+
                 }
 
-
-
-
+                else
+                {
+                    //echo $res2['updated_at']."= " .$res['updated_at']."-mais novo";
+                    $sql1='update '.$table1.' set ';
+                    for($auxj=0;$auxj<$qtdcolunas1;$auxj++)
+                    {
+                        if($auxj==0)
+                            $sql1.=$colunas1[$auxj]."='".$res2[$colunas2[$auxj]]."'";
+                        else
+                            $sql1.=",".$colunas1[$auxj]."='".$res2[$colunas2[$auxj]]."'";
+                    }
+                    $sql1.=" where ".$colunas1[0]."='".$res2[$colunas2[0]]."'";
+                    echo $sql1;
+                    $resultado1=$conexao1->prepare($sql1);
+                    $resultado1->execute();
+                    if($resultado1->rowCount() )
+                        echo 'ok';
+                    else
+                        echo 'erro';
+                }
 
             }
-
-
-                if ($check > 0) {
-                    echo "passa aqui";
-
-                }
-
-
         }
-
         return view('admin.configuracoes.show', compact('configuraco'));
     }
 

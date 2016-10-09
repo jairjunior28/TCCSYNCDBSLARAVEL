@@ -2,113 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06778132-2552-46d5-b0a1-538624dd6e11" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/0107a6935d0c7444e6f1bff8c5bb1865.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/13c1b85a52c8b1817117a942a666590a.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/1b84dd96d61c3523ef7188a9d4603da5.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/1d44c7fd627565e3ff36d929d9e48968.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/4db300ff9e575d7c1d2db33b0c8735ba.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/5437028d6e14f58f45048bf43102c37e.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/55f2a9063a7143f21c4d1a45b99824fe.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/6d3351fa3ede30117f4469173ace7359.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/70b335d367511ddd077cd75b4c7130d0.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/82e1b73bca27774cc121584b72799af5.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/86ff58bc4984161a19ba2e962e051470.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/90c9915369c4fa63752cb45147fa48ef.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/960afd9638479082d4ee80231b55ff93.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/9c5b34a3d0d5c4fb272f988a163b9031.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/a4a111fbf490bb8365542a91f927d44d.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/a8805a2bfc6d6b6fd50d944d6782ea66.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/b6a9b55ba8609271d92cdaae280696bc.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/b7f3c925370eb493ef1cf8cdb3450590.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/cb51995097e9970f68a5f0b6f473d4eb.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/d620c92db7ff39933d7c84f346c430b9.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/dc8bacfeab4f40b86a599c6edfa00753.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/e08ccdf6fca61f8ccfb98c8fe3b1982a.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/e4e27ec45d67f58305c1857ce2a282c1.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/f430965456c54d1482ac2de8d95d3823.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/f6a5942db81c9210c89625e1788b413a.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/fe2869441e1fd17a4e47154042e191b9.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/0398888e9dca197f96b8755cf4e5821c059013cd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/04491f2b254c86a191ad956975afa1a4526b8981" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/05ef9dff73496c1a29a0fcfa6eff907330711704" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/063dbb75b8d9b836bb6ef63f5e11b1a38595dfac" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/071773e1842e4d48d7ed7ef10c90136648cf1cc4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/08f94c8e630c27f2aa528e32d7df4a1feb7494f2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/0b385f3ff5e9ab12e04f2f308bb70be254f43062" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/0d2bb80e3bb73239a6e7d81ff53933e2dca8f9e5" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/12826f53651e80e028b929a6d2470dec050bcb89" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/150c3611cdd047e51e80dbbdf817c5886373bd1e" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/1a9bb5e2cd6272a18a9fa0183f58522923e465c4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/1c7ceb42ef435b6da102bba059435fee584a083f" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/1dd3552807ad11b3fff0f6245e4989c5e9c172f4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/249cd704e30c17debc12a42efa64b9f47cb4c796" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/2c3bd91137a9361fd67aceda9956ea97727d141c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/30af4385ca6ea49da6f1757cc5aafe97f984c52d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/382d4c76c3c96df07cdf1fde42e66f0192c7091e" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/383e2273899a6811d18de4f02588ff0e4783a1f9" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/386c1611e09d0255894999651b3e57aa4d54d6f9" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/3a7a92dd88ed31de28861050b3fdd889a60d90ef" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/3dad54b088079ea13c2d27e4e611481ea2e2b7bf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/3e5e11a14198fa6ff3874b5ce56c7dbcaf62cef2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/3fa61857586fa21f1372a93c8da048b8c12b0b6d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/407fb5bae1c48655f8f5a7652390d1dea29d67b7" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/409c5711d2880966ec82556bf66f2cfb5a81d9a6" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/40ae0340370965b63fca9b2221ca26ff9139c801" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/4524cd31635ff6bcbb1c0492950d20baf91875ed" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/4568603d2ad4f82ec3f9f59705d0f6119ecb6c24" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/461c7e72159ea56a79c00279a6ceb44e85d1930c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/4652771d5c835f36e72665f156f91b40cef1710a" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/4763536d06a7dadb7a975d3051e4bd1a4af7e813" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/4824e5fe1ccf6702e50a8e4db5974195990e13ba" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/492e8db3c5eefab59f5ad59cc0d27214802a4399" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/4da7cc1bc8ba4793339c786013520dfe9f61f2a0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/520af81a66a223c6704590a5b27e12d02a063716" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/59044803d2c8a023e4315944517c51fe8db55181" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/5991be2f69515c1d08dbcb4a49222685ad5709a9" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/6ef44dee75ad25bc097837cc90a8cb3759530f04" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/71995386052360a020379f5840f728e3b438f42a" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/737f12027fd51a4880f16238efcd8ccb5f5db646" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/74a0329681046d0b2e67da4a4dd73adba33a8736" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/755414e00aebbc1887439d671d961ccf07f09726" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/7db8c6708ba9673b5f98f6a8184759de6af1b419" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/8208efe4ebbf8f0fd4664f46f80fe5418ca75502" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/831a7ba0a84b0ba5dbe7b6b23b846711f556c5c0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/83cec982b81e48d9dc4c56c5811783512b74e0b8" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/85cd0e7be61ed87c13645086f5c1eb340006ab04" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/88f8cf6974fa200358895501224b6ea00a77cee6" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/8a23148d78e799304384c90cc283541c58c6e2a0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/8e143cb0e3c91d71c1e0adefeb92a5944e8f7e9a" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/95beb864b0042761855d5f7568b5c4bef9f64167" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/9b8889f492973ba551c96a7d2c35c60e9e2a5b62" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/9fa738afa65053f52b4eeadcec4983c773301443" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/a25b7c350958bf5f8f899cc17810eda3a8fdafaa" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/ac14f926ba90ee49eff402eb9ccd51d4695a2b86" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/ad8330c3fa6b2b725d122432b5b378251ac74316" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/b1da9583921b66d59aa94bc50357c24be4d9b09c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/b45224076faba9a606b80353a116e30c2028bea3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/b63127febb471432f365b06e113f5f6be5dee884" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/b6e36c2e98fedaa9a6d5a1cb7d9a45ad9a0b9a8d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/ba69d86f03d2066c519cbb672bc4493179f6fb49" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/c04646cd99d158b173e0779b8f5ccef5a5765b5c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/c7191c156498da7e0f04e2e31eb3dd78b898411a" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/cd31fbcd848f42b458725e7756cf01b6350d2a92" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/cd38130b3d66fe1dedcbdc8222b96c0e959828cb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/d2f82bab5ecf64d6de199a7dd7bf1428f8717d50" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/da76a471edbc257015ff164bd6accd222d2be001" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/dc281ecc6b02d763f9f7317f15942ef9576a3028" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/df45bd10619ab21781bbca29800e53959a447731" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/e0ed5876f8e9747fc26e9a524e9bc41aa2b49eef" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/e109d581b41626d5831ee4e4b28d3306631c1a8d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/e5d2147d8d9262f7f93d46b5942232fda878b319" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/e7241dd8494edd3dbbc6ba4e7d14ab92ef162201" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/e94098afc03f3a47cf1d065026dd81d30ce66c5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/ea1d83d4608667f21b94a00128923b575d063252" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/eb1a30c15624caff29dec35d89620a99d4fd9ad8" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/f146aafd6f930b4f275b0abc9b373f9c709d3702" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/f4d512be310a82cfed4be1f617301ec9ccb9d581" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/fb029d570f6330fd951ae44cfad2b3ff7f1211fc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/fed3079dfeaabdf15446871116f492ad77e2e237" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/Admin/ConfiguracoesController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/ConfiguracoesController.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/Admin/VinculotabelasController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/VinculotabelasController.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/logs/laravel.log" afterPath="$PROJECT_DIR$/storage/logs/laravel.log" />
     </list>
@@ -162,17 +56,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VinculotabelasController.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="VinculotabelasController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/VinculotabelasController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="58" column="8" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="8" />
+            <state relative-caret-position="238">
+              <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
               <folding>
                 <element signature="e#46#68#0#PHP" expanded="true" />
-                <marker date="1475973387038" expanded="true" signature="1679:1691" placeholder="alter table ${Vinculotabela::create($request-&gt;all())}... " />
-                <marker date="1475973387038" expanded="true" signature="1679:1805" placeholder="alter table ${$tabela1}... " />
-                <marker date="1475973387038" expanded="true" signature="1679:1806" placeholder="alter table ${$tabela1}... " />
-                <marker date="1475973387038" expanded="true" signature="1856:1982" placeholder="alter table ${$tabela2}... " />
+                <marker date="1475973954371" expanded="true" signature="1700:1712" placeholder="alter table ${Vinculotabela::create($request-&gt;all())}... " />
+                <marker date="1475973954371" expanded="true" signature="1700:1826" placeholder="alter table ${$tabela1}... " />
+                <marker date="1475973954371" expanded="true" signature="1700:1827" placeholder="alter table ${$tabela1}... " />
+                <marker date="1475973954371" expanded="true" signature="1877:2003" placeholder="alter table ${$tabela2}... " />
               </folding>
             </state>
           </provider>
@@ -210,26 +104,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConfiguracoesController.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ConfiguracoesController.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/ConfiguracoesController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+            <state relative-caret-position="204">
+              <caret line="209" column="60" selection-start-line="209" selection-start-column="60" selection-end-line="209" selection-end-column="60" />
               <folding>
-                <marker date="1475961015968" expanded="true" signature="1301:1348" placeholder="select * fro... vtabelas1" />
-                <marker date="1475961015968" expanded="true" signature="1388:1435" placeholder="select * fro... vtabelas2" />
-                <marker date="1475961015968" expanded="true" signature="1478:1525" placeholder="select * fro... vparametros1" />
-                <marker date="1475961015968" expanded="true" signature="2018:2063" placeholder="select * fro... vparametros2" />
-                <marker date="1475961015968" expanded="true" signature="4192:4256" placeholder="insert into ${$table2}... " />
-                <marker date="1475961015968" expanded="true" signature="4258:4278" placeholder="insert into ${$table2}... " />
-                <marker date="1475961015968" expanded="true" signature="4258:4298" placeholder="insert into ${$table2}... " />
-                <marker date="1475961015968" expanded="true" signature="5018:5032" placeholder="insert into ${$table1}... " />
-                <marker date="1475961015968" expanded="true" signature="5018:5081" placeholder="insert into ${$table1}... " />
-                <marker date="1475961015968" expanded="true" signature="5018:5082" placeholder="insert into ${$table1}... " />
-                <marker date="1475961015968" expanded="true" signature="5018:7163" placeholder="insert into ${$table1}... " />
-                <marker date="1475961015968" expanded="true" signature="6069:6201" placeholder="/** * Show t... " />
-                <marker date="1475961015968" expanded="true" signature="6376:6494" placeholder="/** * Update... " />
-                <marker date="1475961015968" expanded="true" signature="6845:6965" placeholder="/** * Remove... " />
+                <marker date="1475981491529" expanded="true" signature="1301:1348" placeholder="select * fro... vtabelas1" />
+                <marker date="1475981491529" expanded="true" signature="1388:1435" placeholder="select * fro... vtabelas2" />
+                <marker date="1475981491529" expanded="true" signature="1478:1525" placeholder="select * fro... vparametros1" />
+                <marker date="1475981491529" expanded="true" signature="2017:2062" placeholder="select * fro... vparametros2" />
+                <marker date="1475981491529" expanded="true" signature="3961:4025" placeholder="insert into ${$table2}... " />
+                <marker date="1475981491529" expanded="true" signature="4027:4028" placeholder="insert into ${$table2}... " />
+                <marker date="1475981491529" expanded="true" signature="4737:4751" placeholder="insert into ${$table1}... " />
+                <marker date="1475981491529" expanded="true" signature="4737:4800" placeholder="insert into ${$table1}... " />
+                <marker date="1475981491529" expanded="true" signature="4737:4801" placeholder="insert into ${$table1}... " />
+                <marker date="1475981491529" expanded="true" signature="4737:8358" placeholder="insert into ${$table1}... " />
+                <marker date="1475981491529" expanded="true" signature="5025:5039" placeholder="select * fro... ${$table2}" />
+                <marker date="1475981491529" expanded="true" signature="5025:5048" placeholder="select * fro... ${$table2}" />
+                <marker date="1475981491529" expanded="true" signature="5072:5086" placeholder="select * fro... ${$table1}" />
+                <marker date="1475981491529" expanded="true" signature="5072:5095" placeholder="select * fro... ${$table1}" />
+                <marker date="1475981491529" expanded="true" signature="7264:7396" placeholder="/** * Show t... " />
+                <marker date="1475981491529" expanded="true" signature="7571:7689" placeholder="/** * Update... " />
+                <marker date="1475981491529" expanded="true" signature="8040:8160" placeholder="/** * Remove... " />
               </folding>
             </state>
           </provider>
@@ -271,8 +168,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.env" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/ConfiguracoesController.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/VinculotabelasController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/ConfiguracoesController.php" />
       </list>
     </option>
   </component>
@@ -590,19 +487,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1475860860002</updated>
-      <workItem from="1475860864548" duration="27540000" />
+      <workItem from="1475860864548" duration="34875000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27540000" />
+    <option name="totallyTimeSpent" value="34875000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25419846" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17328244" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -701,29 +598,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/ConfiguracoesController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
-          <folding>
-            <marker date="1475961015968" expanded="true" signature="1301:1348" placeholder="select * fro... vtabelas1" />
-            <marker date="1475961015968" expanded="true" signature="1388:1435" placeholder="select * fro... vtabelas2" />
-            <marker date="1475961015968" expanded="true" signature="1478:1525" placeholder="select * fro... vparametros1" />
-            <marker date="1475961015968" expanded="true" signature="2018:2063" placeholder="select * fro... vparametros2" />
-            <marker date="1475961015968" expanded="true" signature="4192:4256" placeholder="insert into ${$table2}... " />
-            <marker date="1475961015968" expanded="true" signature="4258:4278" placeholder="insert into ${$table2}... " />
-            <marker date="1475961015968" expanded="true" signature="4258:4298" placeholder="insert into ${$table2}... " />
-            <marker date="1475961015968" expanded="true" signature="5018:5032" placeholder="insert into ${$table1}... " />
-            <marker date="1475961015968" expanded="true" signature="5018:5081" placeholder="insert into ${$table1}... " />
-            <marker date="1475961015968" expanded="true" signature="5018:5082" placeholder="insert into ${$table1}... " />
-            <marker date="1475961015968" expanded="true" signature="5018:7163" placeholder="insert into ${$table1}... " />
-            <marker date="1475961015968" expanded="true" signature="6069:6201" placeholder="/** * Show t... " />
-            <marker date="1475961015968" expanded="true" signature="6376:6494" placeholder="/** * Update... " />
-            <marker date="1475961015968" expanded="true" signature="6845:6965" placeholder="/** * Remove... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/TabelasController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -736,14 +610,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/VinculotabelasController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="58" column="8" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="8" />
+        <state relative-caret-position="238">
+          <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
           <folding>
             <element signature="e#46#68#0#PHP" expanded="true" />
-            <marker date="1475973387038" expanded="true" signature="1679:1691" placeholder="alter table ${Vinculotabela::create($request-&gt;all())}... " />
-            <marker date="1475973387038" expanded="true" signature="1679:1805" placeholder="alter table ${$tabela1}... " />
-            <marker date="1475973387038" expanded="true" signature="1679:1806" placeholder="alter table ${$tabela1}... " />
-            <marker date="1475973387038" expanded="true" signature="1856:1982" placeholder="alter table ${$tabela2}... " />
+            <marker date="1475973954371" expanded="true" signature="1700:1712" placeholder="alter table ${Vinculotabela::create($request-&gt;all())}... " />
+            <marker date="1475973954371" expanded="true" signature="1700:1826" placeholder="alter table ${$tabela1}... " />
+            <marker date="1475973954371" expanded="true" signature="1700:1827" placeholder="alter table ${$tabela1}... " />
+            <marker date="1475973954371" expanded="true" signature="1877:2003" placeholder="alter table ${$tabela2}... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/ConfiguracoesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="209" column="60" selection-start-line="209" selection-start-column="60" selection-end-line="209" selection-end-column="60" />
+          <folding>
+            <marker date="1475981491529" expanded="true" signature="1301:1348" placeholder="select * fro... vtabelas1" />
+            <marker date="1475981491529" expanded="true" signature="1388:1435" placeholder="select * fro... vtabelas2" />
+            <marker date="1475981491529" expanded="true" signature="1478:1525" placeholder="select * fro... vparametros1" />
+            <marker date="1475981491529" expanded="true" signature="2017:2062" placeholder="select * fro... vparametros2" />
+            <marker date="1475981491529" expanded="true" signature="3961:4025" placeholder="insert into ${$table2}... " />
+            <marker date="1475981491529" expanded="true" signature="4027:4028" placeholder="insert into ${$table2}... " />
+            <marker date="1475981491529" expanded="true" signature="4737:4751" placeholder="insert into ${$table1}... " />
+            <marker date="1475981491529" expanded="true" signature="4737:4800" placeholder="insert into ${$table1}... " />
+            <marker date="1475981491529" expanded="true" signature="4737:4801" placeholder="insert into ${$table1}... " />
+            <marker date="1475981491529" expanded="true" signature="4737:8358" placeholder="insert into ${$table1}... " />
+            <marker date="1475981491529" expanded="true" signature="5025:5039" placeholder="select * fro... ${$table2}" />
+            <marker date="1475981491529" expanded="true" signature="5025:5048" placeholder="select * fro... ${$table2}" />
+            <marker date="1475981491529" expanded="true" signature="5072:5086" placeholder="select * fro... ${$table1}" />
+            <marker date="1475981491529" expanded="true" signature="5072:5095" placeholder="select * fro... ${$table1}" />
+            <marker date="1475981491529" expanded="true" signature="7264:7396" placeholder="/** * Show t... " />
+            <marker date="1475981491529" expanded="true" signature="7571:7689" placeholder="/** * Update... " />
+            <marker date="1475981491529" expanded="true" signature="8040:8160" placeholder="/** * Remove... " />
           </folding>
         </state>
       </provider>
