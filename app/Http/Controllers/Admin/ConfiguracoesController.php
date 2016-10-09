@@ -4,7 +4,7 @@ namespace App\Http\Controllers\Admin;
 
 use App\Http\Requests;
 use App\Http\Controllers\Controller;
-
+use Symfony\Component\Console\Helper\ProgressBar;
 use App\Configuraco;
 use Illuminate\Http\Request;
 use Carbon\Carbon;
@@ -61,6 +61,8 @@ class ConfiguracoesController extends Controller
      */
     public function show($id)
     {
+
+
         $configuraco = Configuraco::findOrFail($id);
         $tabelas1=DB::select("select * from vtabelas1 where id_configuracao=?",[$id]);
         $tabelas2=DB::select("select * from vtabelas2 where id_configuracao=?",[$id]);
@@ -197,25 +199,26 @@ class ConfiguracoesController extends Controller
         while($res2=$result2->fetch())
         {
             while($res=$result1->fetch()) {
-                if ($res2['updated_at'] > $res['updated_at']){
+                if ($res2['updated_at'] < $res['updated_at']){
                    // echo $res2['updated_at']." = " .$res['updated_at'] ."-mais velho";
-                    $sql2='update '.$table1.' set ';
+                    $sql2='update '.$table2.' set ';
                     for($auxj=0;$auxj<$qtdcolunas2;$auxj++)
                     {
                         if($auxj==0)
-                            $sql2.=$colunas1[$auxj]."='".$res2[$colunas2[$auxj]]."'";
+                            $sql2.=$colunas2[$auxj]."='".$res[$colunas1[$auxj]]."'";
                         else
-                            $sql2.=",".$colunas1[$auxj]."='".$res2[$colunas2[$auxj]]."'";
+                            $sql2.=",".$colunas2[$auxj]."='".$res[$colunas1[$auxj]]."'";
                     }
-                    $sql2.=" where ".$colunas1[0]."='".$res2[$colunas2[0]]."'";
-                    echo $sql2;
+                    $sql2.=" where ".$colunas2[0]."='".$res[$colunas1[0]]."'";
+                    //echo $sql2;
                     $resultado2=$conexao2->prepare($sql2);
                     $resultado2->execute();
 
                     if($resultado2->rowCount())
                         echo 'ok';
                     else
-                        echo 'erro';
+                        echo 'erro' .$table2;
+
 
 
 
@@ -233,7 +236,7 @@ class ConfiguracoesController extends Controller
                             $sql1.=",".$colunas1[$auxj]."='".$res2[$colunas2[$auxj]]."'";
                     }
                     $sql1.=" where ".$colunas1[0]."='".$res2[$colunas2[0]]."'";
-                    echo $sql1;
+                    //echo $sql1;
                     $resultado1=$conexao1->prepare($sql1);
                     $resultado1->execute();
                     if($resultado1->rowCount() )
