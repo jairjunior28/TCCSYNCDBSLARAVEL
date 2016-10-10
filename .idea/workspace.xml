@@ -2,10 +2,287 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06778132-2552-46d5-b0a1-538624dd6e11" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/00b632fd8ff253ea4a914ef888551ed4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/02fb8c3155eea7aff66c756adc3eb188.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/0358cd1d4b06bd05f0c3c12451163737.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/0370efb2a3bd88f186b5a941c9c11d2b.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/03c6137191b7ee031746dddf8b5df733.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/0409811c1c0b20d16953025a86250363.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/04144bdb6f726b11c30b0e0ac1c9a8e4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/0485a06e15a9c5f2f3464f0e290b1190.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/049d3bcdf8b28d4bb1f14d171303d96b.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/0564fce8d71b56a6663f79cc75dc9173.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/086309e286e4435862b1e0f67c62e074.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/086542fd739ac4b7842337d47adf4ee5.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/08bb3092fdf5d68cac5f7dcbaeddc7e2.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/0b5182ec873894911c656a63cb5bdba1.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/0c8632dc39e9dea9ffa8d31086b1de5c.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/0d823a06cbd39705307613bc8fa419a6.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/0d91894baaa6a8a7413acc9f614e64c4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/0ebd4d849a793a07145b6860d80e0bdf.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/0ff7304010324d9e01be37e653e5e4c2.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/10206623ed590b8be517562c4c42f984.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/10a2a682a78bf7c65dbc08c45301d2d4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/11464fa3cfa2d22b1eb6f399eb78f3b7.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/11ae51d8112032c21da13e047e9ffcb9.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/133179f9f07be9289c02a524c430f8cc.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/14fdaab0d5271f4987ff19f22d64c7a9.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/15c70ef2745c241a72c385109278ac28.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/171fee4642af8016570edd595628516c.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/17603fa990648127064f7fe39295d776.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/1b9fb7bab8ed0923c271c827585a291a.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/1d24553aad2ee113682e8520ddfeace1.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/20400a1f7e9afad3ddca2a1875ac61ac.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/206070d93ea388afd0c5aee6e00bd311.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/20a90c2af9dc80b987a59b13d791231e.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/21c0fe12aa8cede60fa156039b78388c.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/22012295c0c20e02823edeea27afc2ee.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/22da8ecf6ce1faf9977c7f0276ebf774.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/24f588b1e7387cf5063e68c6358ca434.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/277fd63863355d6c8bbe8ab1c30a91df.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/2803ec5a696a83188362b7b96b7dfece.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/28ec8972fef68d7efcba68f7279f6be4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/298867155099caf34c5702fc921c9bff.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/2a47f5fa1af22b0e141099450e1afa2e.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/2ae2cbd0e9a3d8542836b1da40c51c0b.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/2b9fdb2e531c9a4228fbbee096e83eea.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/2c6f1df8e4ca236d46f8b15d063a791e.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/2ea4a5b8153af88d3fbb684028dd5029.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/31ff3774841936a3b4fabc3d7ec0f552.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/33717ed99e7c75cca0a8f58251a79867.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/344c0ee6469030b722504605c6b5e7a4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/345e17b86e7e1de7944106f6fd36d9de.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/353b254ba0e713b2b768a4e329958186.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/35647b507260baf5e7f6ae0d30510176.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/35714ab932f11044def8be5869f7ea57.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/357c7a632bc40e6e1ec6eb63aa8ac79d.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/36a5e1f6dc93be9c8cb538d25f014b67.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/3788c5f469e33a2c5207237d58bcb989.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/38a9628b68cc7eb5bb6eab9b8c0885fe.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/38c72993a457234086d4a64f633454fa.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/39f8c2b0d22f1adb462716538588d688.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/3a235013e23129a3bae1247a0d9e7d60.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/3b0327f2f9a217bc074682295db6247d.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/3ebbc3ee8245a48a6b726dc893fc6b13.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/3f2ab85ba31ae28a2129b5d693d8c073.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/40751736e1411826dd7ecf4b059d3944.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/4148ba833e1becebe2e64e3b7e22eca5.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/45b24a0c638487de7574b1852e57ab31.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/4600ea40c454d58517cf4d60a1004664.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/465d5601496929a629cd506ac492fa13.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/46d68fb013d8985089a84c8bd5a620ad.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/4727388cc26fb5b7ba1f502c19de5351.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/47e8fa5453c20bacfcfc321095bef295.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/4a5e4d36371ae24deab2d551a190aae7.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/4ecbeb7a8cdf9a94e6ed56c9e5f63366.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/4fe89ba18378d6d9f7277c62df859e93.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/51b6e280c6a4dc806f04850b79d248be.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/52292cd9af641aedd80260d67945f115.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/54675b8acc1ed92764e61c12d92051b8.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/54dc66eb9be9fd7af198f166f7ed3fdb.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/54e99ecbdbbe9aa8d7e6a65d368c00c1.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/57e58cdd2823f45ab570267f47c454d8.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/5944e7b73a3ec65116f9b4bc5cb4d419.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/5a12c1a16d1d208877f78759f8422a9f.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/5abc9d1866184f84d47cd2a314ad94ee.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/5b6ddd2232daf80ac7e398355e42f34c.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/5b8706447c295d9423f4c982af1f338a.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/5c4cad7ee715348005f0b6fb62829f12.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/5ebe494d2b69462b944b3062ed0b2f57.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/5eed4ffc2b8c666ab673efb0c5a58d7e.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/5eefa025f89ef4ffed1daa3303cece62.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/60184820453b094b44bf3cf49fd936e4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/62255cd8d9825c149c2567814ffbf41a.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/62ed20d03634f0d702f3c78b78b4cb0c.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/62f3795abe0f40725faba48e91a106be.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/641941d920f134eefb4420237c5c960a.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/64bc6ebf2c4a7bbc0746c02d5911c7c3.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/6603fa5b1585656255e4bc60d0de7357.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/680bbebfd05632d2341c6c83a0d918fd.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/69b97097f2545d4867d0cf9061027482.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/6a3ab15bd6e53940ebcdcf25be9ed242.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/6a68d023cbe2281155a6ceccac6f8ae6.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/6b385509ec3133c38284e330153c092b.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/6b43a6dafb6542ca7fce576b77324664.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/6c2ec7b7ce856997f25b9631ba4fb7ed.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/6c6f6dea8d475c87bfe5d8a1ceb9f793.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/6e1dfbbc36c8b4e911c4f4b0bfcceb0c.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/6e6f387a51a13b4ab31ea4c34b97c62f.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/6ee42be01c57043761b9e36eecec784d.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/7079ae9d73552e2f39c2ed3dfba0d389.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/70932efa00f50916af849842fde8a234.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/70f05ca2ace7c29e82d59092859ce802.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/7100a982501a5f2005f8d9d05e8debd1.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/719801fe7abe6f4b20a780379d8320af.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/71f62adcdcb2e3fed77cf1c9d9e278ed.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/74181215bb8534237525db248d1ec60d.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/75b92412b8272b2e30a3aa1f46ad01f9.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/767cd530b2af6574cf675e32dd31686a.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/76d2409b83b17dd5c7715bbadba8f678.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/76f93375b95f6891972624156af3fe26.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/776eea3f58c1acde7f691a610b73c288.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/79fa76b50618ec0a002bca2374aecf8f.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/7bbd5fd7a758d4dd06ce8a453a08f1ec.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/7c3cfae2bec4d23151aff445fa151f74.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/7c43222282a5f336c3e53f7ebc200597.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/7ca160dde30626b49577adb2e9ba7fc8.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/8480de69cf9cfcd25cb97cbbb0bf952a.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/865072e861f9bf6bdf3785cd36565548.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/86845a4039f5f83610f0791b988d8c19.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/87115450e2ff21dd118671998288ab19.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/874a6d989c4d385b996f45e3351fe612.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/88875ad4181d9caef0033b499badc2fc.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/8afad0847762a3e2b1971dcd4a6ca8cf.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/8c06976d056d73b37878ef6086826092.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/8c21ba6784c30613d20304c5a3683a97.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/8cdfd959849e1e13623b38464c66f291.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/8efb0448b78122fde72772fef2018e9a.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/8f4649f809b78b8641c67273b89c0e8d.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/910ae4a777f07f279d01c7375dc641b9.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/913b039c5e73d31ec931c7c17ecb6475.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/92e8803a7ce13136fd117f19bcf028ed.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/95383a321edd4e39c168f97e15dc47b6.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/961efe5dd8a87dac02a8bc7ef668e961.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/969435865ef00a66aa639e63990ff25f.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/982bcac37515c665f57936802653f9f3.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/98d0711211c881560656d0ace272d082.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/9bb0200a34825610676902a953c59f0a.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/9e482fd06262a437430bcee11a8169c5.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/9ff090f0d00a8b660785b8e51434ec83.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/a03613d519b997df3ca2b9cf50d31ff9.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/a06138d1fe9abf16ca78e2489f2f51e2.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/a15fef98f9687cdb6adee2bf96ee4a6b.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/a261dbf0752239d607b570ab12e7ff4e.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/a36da53a897f67aedd1f70b7799e2070.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/a3f07722e2c4dc1f4660ae3fd629f443.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/a4f8d5ca3a9b4b21bb6ce7f08ac8543b.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/a56e198d6ce50c753866b5f3dcd39506.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/a5904950223de0340b8b0724513d0a75.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/a69cb0d75c7fe99337e068998b6fbbe9.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/a72816d0293ccbc51ffb9040dc1b3b69.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/a87c4632b80605aaec08b4f266d19666.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/aaa8f7c61dcfa7a0cd16400213aedc85.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/ac2c21db2f693e8f8f15d46a9c8f4561.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/aca67b074da58a324c7d418027b52f91.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/ad5c5c9a4a414189535b117659b278a6.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/ae19742dc775ed8cfd4b6349a67fefd9.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/af333248e110946583e29e9b6cfea7e9.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/af3bc798e2c01c17fc3797f5102f74df.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/b0cb718d19816b74a010e921e36f68cf.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/b2a4d1cedbca7cecbba372f97d93a271.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/b32a98fc35e0ed2303f6f79a125610c6.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/b4c2ec1ebffa80b7976fbcc2578ac9c8.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/b51225d54c55984366e6de65f34d7c2e.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/b65b3311f6e37776fc3e4f50b3a8be11.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/b827eedf81f6517e24eb28da59cb5b39.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/ba9c5dfaed3437d3cd23c6e166fac092.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/bad83bb5dd74a92c8f575b765135d334.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/bbe2ddcebab7e188017f4893023b7aac.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/bc1e2a06e3d3e4bc609a1c6766303318.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/bd157bd6e6aaecfe93785aa90c5aa069.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/bd167c0bf239400cc9bbb8a733e2c9ed.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/befe45284fdbfe15e8305c8e099187d6.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/bf2ae711358780788747e7041f0266ec.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/bfbbb790faa1cec9f70d7ee9ab5a5218.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/bfeed112b9e71a787f2b8a24e87d2927.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/c234285df0dc3ee48be7558efbe2b873.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/c482f8c80431e51f467e724e3b564fd9.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/c6402f02273861a12c62572e3254a9bd.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/ca61d6f87827f7a86ff6a5cdfe7cce6c.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/cb2d3fa63e9f457aabffdab4bf5ba874.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/ccedf3c7f9fb24a4def2ee4786e5fad5.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/cd1fcb87b1286d47ccf00715fb2219f0.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/cdbd206d4f71180c0737ecb3d407647d.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/cf33b1cc2b60e9ef57c8cd848d0aeb41.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/cf4143b2667196b3b79e57aabda22ab4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/cf4f187baf89f38017c7ea7d4050171b.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/cf5589ba2b81b129d951165c2768b20f.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/cfc336571306c620f03334eef34baf1d.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/d0695074946e9f0751f10257b24a93db.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/d0a2b86708130f2b508a42fe3d01c289.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/d26f874304ca2a97a839baca3c03113b.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/d2bd3a86223f3f2d29b6fff55de9e24f.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/d3fe49e370114fb1ae39c84c8d419f18.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/d4d598fffb6210409e8a0a86f96279ac.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/d523fba7b3655feb657f7fc806b5910d.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/d601f9aa205efa3981987f6f972d6955.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/d643c42c821f1cb9bda74fcb3a6cf070.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/d669c6098a99fd3dba2d04acfc250222.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/d6c1308ce9e844a1a83afc6636ea8f93.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/d7bfcb1f2fbad18d6564f1fe9ab17bfd.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/d98197dc14e8c369af25494c3641110b.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/da345e64b595cd93dff458434c504c0b.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/da3f5ec9e6bd779ac2d13135caddfb34.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/da7445d637a744df3a69b3b45f83762d.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/db782d54f63f6a0874e3cdf24cd1bf65.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/dbbaa866ffde927c4c62e363706110c6.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/dd74fbed3c4cad34f3d5e83e91130df0.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/ddff78ca78b3800a8ace5ed6aa09b832.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/def49b4e5d139b277480bda89fa8edda.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/e023554d1977b6163c6faa9c7343b637.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/e0f89a3f0006fcc6ba765ce7b97c8346.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/e318c886a321d46c67b88e91272b2e5b.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/e3b53fa520e83f4ab7295b8c91c5ef99.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/e44656b17be29f9443107800c6a0e440.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/e4b38cacaefdecf16b364bb78cabbfa0.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/e4d3dce294bfd8a2ca7cad44cb9376b0.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/e6c48207f7fa2c38b9136012fbd87e1c.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/e6d12b2683008227c3dd8320dd2b8a10.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/e80ed29c98e5c4ca9147d0af45dfef86.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/e893d03f4f2475207bb555862795f836.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/e94f1862dd387d33690cede593732cf7.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/e971945d1dd2a2f172a122efdc545213.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/eae7088cb598bebdd8d4dcbf3514d0f1.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/eb3473e3e090c9b6684592dffddbddfd.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/ecb53485be9520023847242d3afd9f94.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/ee71528593bc7571b8f49251e4c9f7d3.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/efdc126450a30e25205029e20caa825d.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/f190b5f8540a8412a09b10a5ee2d19c1.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/f5648da57adbf4042d558d8902812622.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/f608ae4423dde533a26f0a8758a109dc.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/f79a2c5858c92dd8e46880de6ee222ef.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/fb29f4bc03305413a483bcf7c08f448e.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/fb8c12c9614d78a5617f3d587530acad.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/fbe8d4a4a8d7c96b997d2f4116d3aeab.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/fe3ed28c3581e5d44c6232bacb9527ab.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/fe74213b1dee23bda396d029426da475.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/fe8b68ac9c0676fb6631160795d25b79.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/ff198ba53aa91f71890145d61f6a8b57.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/debugbar/ffcfde45f633d7f170a71fa86531f040.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/045c708a7ec4fdf040f68a342e5f99bce9dd1435" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/12b4dc5acc32cd37df3bbc2d3b2c2dce5c8b7d43" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/1c4654b89871d998baa51329041de6273cde4791" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/1f91403489367b69db29d3d73fd5eab611237c58" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/2a0b0fad987da19b9a5ba7b1b34241c01d0815d1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/3f215a286c139becb8688864d0bdcfddf12e4ba9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/417bfc81d6cdcffb95eefbc2a5c2334926cf6f53" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/46b79cc94130d07778f1dd5ddade51620e5f1c90" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/49f8d7c8003429a7117dc56dd84000a1c8444bf4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/50ece9060a4fa602c8e18add38ce30ea8d6025b2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/57e8a0a0cfbfd6feaa2d9087272d25323215d902" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/58ec5b864cef8fee0889012aeed0aa8035cd76a4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/66e37ce40bf32d55e637db70fb5b1517b5d2ce1e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/75c6a1f03367bd491755b678a20d2c7100bd82d2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/7a7ac041e772c634a44dd844ab29f04fc4ef9a35" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/85a479fe1a85ab9cf9f8f906b8e095d38594e2a1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/8afd898d725db11709fe2a7965dc20ea13f6bda7" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/8c68ec50e1c78b9dc0985bf0bf7d2c5365efdb40" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/8cba26dbef82797ed362a1e41b4f28d982c52cf9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/944e2c948b5845d15217c7d6c8a91beed750f114" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/988bf7a864184ce9857a4ebaff34c8f3ce1c86dd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/bfd1d3742d1084facd7543ae60a18e9ce53ae755" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/c3163a58168a806bd2d51421d4d14fc6d979b313" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/ca3bd15791808720e827d56f58e7fd3935390459" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/d9b6fe0e7a56de16196d220f526a2102ac3aab58" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/db88c42960975e12058c53a0bd3f47052bd42d82" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/e90a628fffbe972966d088b1f054d24e63120809" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/eb208133ca897fa29be309626684e28895b618c8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/eb758f80a2f75f76ede41a5a164bc81c3bc9ec4b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/ec124bb6e13c3f5a006d7a7083585b91e5505f94" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/f6bf7b5fc2ea559fb6a7cab6fa8c84a89a24405e" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/Admin/ConfiguracoesController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/ConfiguracoesController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/views/7f72362f16c1663c04b92d4afd6672b6f851f1e9.php" afterPath="$PROJECT_DIR$/storage/framework/views/7f72362f16c1663c04b92d4afd6672b6f851f1e9.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/admin/configuracoes/show.blade.php" afterPath="$PROJECT_DIR$/resources/views/admin/configuracoes/show.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/views/0a726299d2db6bf21f85e562edfa747da503039d.php" afterPath="$PROJECT_DIR$/storage/framework/views/0a726299d2db6bf21f85e562edfa747da503039d.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/logs/laravel.log" afterPath="$PROJECT_DIR$/storage/logs/laravel.log" />
     </list>
     <ignored path="TCCSYNCDBSLARAVEL.iws" />
@@ -28,16 +305,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Vinculotabela.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Vinculotabela.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="VinculotabelasController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/VinculotabelasController.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -89,28 +356,62 @@
       <file leaf-file-name="ConfiguracoesController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/ConfiguracoesController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="201" column="41" selection-start-line="201" selection-start-column="41" selection-end-line="201" selection-end-column="41" />
+            <state relative-caret-position="253">
+              <caret line="68" column="8" selection-start-line="68" selection-start-column="8" selection-end-line="68" selection-end-column="8" />
               <folding>
                 <element signature="e#46#68#0#PHP" expanded="true" />
-                <marker date="1476022442194" expanded="true" signature="1352:1399" placeholder="select * fro... vtabelas1" />
-                <marker date="1476022442194" expanded="true" signature="1439:1486" placeholder="select * fro... vtabelas2" />
-                <marker date="1476022442194" expanded="true" signature="1529:1576" placeholder="select * fro... vparametros1" />
-                <marker date="1476022442194" expanded="true" signature="2068:2113" placeholder="select * fro... vparametros2" />
-                <marker date="1476022442194" expanded="true" signature="4012:4076" placeholder="insert into ${$table2}... " />
-                <marker date="1476022442194" expanded="true" signature="4078:4079" placeholder="insert into ${$table2}... " />
-                <marker date="1476022442194" expanded="true" signature="4788:4802" placeholder="insert into ${$table1}... " />
-                <marker date="1476022442194" expanded="true" signature="4788:4851" placeholder="insert into ${$table1}... " />
-                <marker date="1476022442194" expanded="true" signature="4788:4852" placeholder="insert into ${$table1}... " />
-                <marker date="1476022442194" expanded="true" signature="4788:8420" placeholder="insert into ${$table1}... " />
-                <marker date="1476022442194" expanded="true" signature="5076:5090" placeholder="select * fro... ${$table2}" />
-                <marker date="1476022442194" expanded="true" signature="5076:5099" placeholder="select * fro... ${$table2}" />
-                <marker date="1476022442194" expanded="true" signature="5123:5137" placeholder="select * fro... ${$table1}" />
-                <marker date="1476022442194" expanded="true" signature="5123:5146" placeholder="select * fro... ${$table1}" />
-                <marker date="1476022442194" expanded="true" signature="7326:7458" placeholder="/** * Show t... " />
-                <marker date="1476022442194" expanded="true" signature="7633:7751" placeholder="/** * Update... " />
-                <marker date="1476022442194" expanded="true" signature="8102:8222" placeholder="/** * Remove... " />
+                <marker date="1476062786285" expanded="true" signature="1428:1475" placeholder="select * fro... vtabelas1" />
+                <marker date="1476062786285" expanded="true" signature="1515:1562" placeholder="select * fro... vtabelas2" />
+                <marker date="1476062786285" expanded="true" signature="1605:1652" placeholder="select * fro... vparametros1" />
+                <marker date="1476062786285" expanded="true" signature="2144:2189" placeholder="select * fro... vparametros2" />
+                <marker date="1476062786285" expanded="true" signature="4088:4152" placeholder="insert into ${$table2}... " />
+                <marker date="1476062786285" expanded="true" signature="4154:4155" placeholder="insert into ${$table2}... " />
+                <marker date="1476062786285" expanded="true" signature="4864:4878" placeholder="insert into ${$table1}... " />
+                <marker date="1476062786285" expanded="true" signature="4864:4927" placeholder="insert into ${$table1}... " />
+                <marker date="1476062786285" expanded="true" signature="4864:4928" placeholder="insert into ${$table1}... " />
+                <marker date="1476062786285" expanded="true" signature="4864:8208" placeholder="insert into ${$table1}... " />
+                <marker date="1476062786285" expanded="true" signature="5152:5166" placeholder="select * fro... ${$table2}" />
+                <marker date="1476062786285" expanded="true" signature="5152:5175" placeholder="select * fro... ${$table2}" />
+                <marker date="1476062786285" expanded="true" signature="5199:5213" placeholder="select * fro... ${$table1}" />
+                <marker date="1476062786285" expanded="true" signature="5199:5222" placeholder="select * fro... ${$table1}" />
+                <marker date="1476062786285" expanded="true" signature="7114:7246" placeholder="/** * Show t... " />
+                <marker date="1476062786285" expanded="true" signature="7421:7539" placeholder="/** * Update... " />
+                <marker date="1476062786285" expanded="true" signature="7890:8010" placeholder="/** * Remove... " />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="show.blade.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/admin/configuracoes/show.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+              <folding>
+                <element signature="e#1294#1312#0#HTML" expanded="true" />
+                <marker date="1476108682026" expanded="true" signature="1619:1773" placeholder="..." />
+                <marker date="1476108682026" expanded="true" signature="1640:1752" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProgressBar.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/symfony/console/Helper/ProgressBar.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="57" column="32" selection-start-line="57" selection-start-column="32" selection-end-line="57" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OutputInterface.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/symfony/console/Output/OutputInterface.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="25" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -125,39 +426,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.blade.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="472">
               <caret line="81" column="18" selection-start-line="81" selection-start-column="18" selection-end-line="81" selection-end-column="18" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.blade.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/admin/vinculotabelas/index.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
-              <folding>
-                <marker date="1475856950805" expanded="true" signature="1233:1453" placeholder="..." />
-                <marker date="1475856950805" expanded="true" signature="1245:1451" placeholder="..." />
-                <marker date="1475856950805" expanded="true" signature="1246:1450" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tabelascolunasController.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/tabelascolunasController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#46#68#0#PHP" expanded="true" />
-                <marker date="1475856950648" expanded="true" signature="2571:2655" placeholder="insert into tabelascolunas... " />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -172,8 +446,9 @@
       <list>
         <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/VinculotabelasController.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/ConfiguracoesController.php" />
         <option value="$PROJECT_DIR$/resources/views/layouts/app.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/ConfiguracoesController.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/configuracoes/show.blade.php" />
       </list>
     </option>
   </component>
@@ -295,6 +570,54 @@
               <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TCCSYNCDBSLARAVEL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TCCSYNCDBSLARAVEL" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="configuracoes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TCCSYNCDBSLARAVEL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TCCSYNCDBSLARAVEL" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -374,6 +697,54 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TCCSYNCDBSLARAVEL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TCCSYNCDBSLARAVEL" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controllers" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TCCSYNCDBSLARAVEL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TCCSYNCDBSLARAVEL" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controllers" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Admin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -423,36 +794,36 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1475860860002</updated>
-      <workItem from="1475860864548" duration="38969000" />
+      <workItem from="1475860864548" duration="47500000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38969000" />
+    <option name="totallyTimeSpent" value="47500000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17328244" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24045801" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -510,14 +881,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/admin/tabelas/create.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="61" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Vinculotabela.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -558,33 +921,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/ConfiguracoesController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="201" column="41" selection-start-line="201" selection-start-column="41" selection-end-line="201" selection-end-column="41" />
-          <folding>
-            <element signature="e#46#68#0#PHP" expanded="true" />
-            <marker date="1476022442194" expanded="true" signature="1352:1399" placeholder="select * fro... vtabelas1" />
-            <marker date="1476022442194" expanded="true" signature="1439:1486" placeholder="select * fro... vtabelas2" />
-            <marker date="1476022442194" expanded="true" signature="1529:1576" placeholder="select * fro... vparametros1" />
-            <marker date="1476022442194" expanded="true" signature="2068:2113" placeholder="select * fro... vparametros2" />
-            <marker date="1476022442194" expanded="true" signature="4012:4076" placeholder="insert into ${$table2}... " />
-            <marker date="1476022442194" expanded="true" signature="4078:4079" placeholder="insert into ${$table2}... " />
-            <marker date="1476022442194" expanded="true" signature="4788:4802" placeholder="insert into ${$table1}... " />
-            <marker date="1476022442194" expanded="true" signature="4788:4851" placeholder="insert into ${$table1}... " />
-            <marker date="1476022442194" expanded="true" signature="4788:4852" placeholder="insert into ${$table1}... " />
-            <marker date="1476022442194" expanded="true" signature="4788:8420" placeholder="insert into ${$table1}... " />
-            <marker date="1476022442194" expanded="true" signature="5076:5090" placeholder="select * fro... ${$table2}" />
-            <marker date="1476022442194" expanded="true" signature="5076:5099" placeholder="select * fro... ${$table2}" />
-            <marker date="1476022442194" expanded="true" signature="5123:5137" placeholder="select * fro... ${$table1}" />
-            <marker date="1476022442194" expanded="true" signature="5123:5146" placeholder="select * fro... ${$table1}" />
-            <marker date="1476022442194" expanded="true" signature="7326:7458" placeholder="/** * Show t... " />
-            <marker date="1476022442194" expanded="true" signature="7633:7751" placeholder="/** * Update... " />
-            <marker date="1476022442194" expanded="true" signature="8102:8222" placeholder="/** * Remove... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="319">
@@ -598,6 +934,69 @@
         <state relative-caret-position="472">
           <caret line="81" column="18" selection-start-line="81" selection-start-column="18" selection-end-line="81" selection-end-column="18" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/console/Output/OutputInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/console/Helper/ProgressBar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="57" column="32" selection-start-line="57" selection-start-column="32" selection-end-line="57" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/tabelas/create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="61" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/ConfiguracoesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="68" column="8" selection-start-line="68" selection-start-column="8" selection-end-line="68" selection-end-column="8" />
+          <folding>
+            <element signature="e#46#68#0#PHP" expanded="true" />
+            <marker date="1476062786285" expanded="true" signature="1428:1475" placeholder="select * fro... vtabelas1" />
+            <marker date="1476062786285" expanded="true" signature="1515:1562" placeholder="select * fro... vtabelas2" />
+            <marker date="1476062786285" expanded="true" signature="1605:1652" placeholder="select * fro... vparametros1" />
+            <marker date="1476062786285" expanded="true" signature="2144:2189" placeholder="select * fro... vparametros2" />
+            <marker date="1476062786285" expanded="true" signature="4088:4152" placeholder="insert into ${$table2}... " />
+            <marker date="1476062786285" expanded="true" signature="4154:4155" placeholder="insert into ${$table2}... " />
+            <marker date="1476062786285" expanded="true" signature="4864:4878" placeholder="insert into ${$table1}... " />
+            <marker date="1476062786285" expanded="true" signature="4864:4927" placeholder="insert into ${$table1}... " />
+            <marker date="1476062786285" expanded="true" signature="4864:4928" placeholder="insert into ${$table1}... " />
+            <marker date="1476062786285" expanded="true" signature="4864:8208" placeholder="insert into ${$table1}... " />
+            <marker date="1476062786285" expanded="true" signature="5152:5166" placeholder="select * fro... ${$table2}" />
+            <marker date="1476062786285" expanded="true" signature="5152:5175" placeholder="select * fro... ${$table2}" />
+            <marker date="1476062786285" expanded="true" signature="5199:5213" placeholder="select * fro... ${$table1}" />
+            <marker date="1476062786285" expanded="true" signature="5199:5222" placeholder="select * fro... ${$table1}" />
+            <marker date="1476062786285" expanded="true" signature="7114:7246" placeholder="/** * Show t... " />
+            <marker date="1476062786285" expanded="true" signature="7421:7539" placeholder="/** * Update... " />
+            <marker date="1476062786285" expanded="true" signature="7890:8010" placeholder="/** * Remove... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/configuracoes/show.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <folding>
+            <element signature="e#1294#1312#0#HTML" expanded="true" />
+            <marker date="1476108682026" expanded="true" signature="1619:1773" placeholder="..." />
+            <marker date="1476108682026" expanded="true" signature="1640:1752" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
