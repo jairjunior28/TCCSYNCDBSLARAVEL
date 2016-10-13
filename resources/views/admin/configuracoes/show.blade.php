@@ -13,7 +13,7 @@
                 if(i==60)
                     $("#barraProgressoBasico").removeClass().addClass('progress-bar progress-bar-warning');
                 if(i==80)
-                    $("#barraProgressoBasico").removeClass().addClass('progress-bar progress-bar-danger');
+                    $("#barraProgressoBasico").removeClass().addClass('progress-bar progress-bar-default');
                 setTimeout('processaBasico()', 100);
 
             }
@@ -30,7 +30,7 @@
     <label id="andamento">Andamento da sincronização:</label>
     <div class="progress progress-striped active">
 
-        <div id="barraProgressoBasico" class="progress-bar progress-bar-info" style="width: 0%;">0%</div>
+        <div id="barraProgressoBasico" class="progress-bar progress-bar-danger" style="width: 0%;">0%</div>
     </div>
     <div class="table-responsive">
         <table class="table table-bordered table-striped table-hover">
